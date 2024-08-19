@@ -2,7 +2,7 @@
 an autoclicker dll that can be injected into any process
 
 ## installation
-download .dll file [here](https://github.com/felossj/autoclick/releases/tag/v2).<br />
+download .dll file [here](https://github.com/felossj/autoclick/releases/tag/0.1).<br />
 remember that you can change the name and the extension it doesnt care
 
 ## usage
