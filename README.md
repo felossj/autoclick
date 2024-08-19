@@ -29,11 +29,12 @@ open cmd, writes "rundll32 [path to .dll] [some random word]" and touch enter.
 - press win+r, types regedit and press enter
 - go to Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\ and open the folder with the longest name
 - right click this folder and give administrators full permisions, deletes the file called C:\Windows\System32\rundll32, uncheck the full permisions for administrators and minimize all folders
-  this lil guide probably make you bypass manual screenshares but this clickers isnt screenshare proof and most ss tools probably detects it
+- this lil guide probably make you bypass manual screenshares but this clickers isnt screenshare proof and most ss tools probably detects it
   
 ## modules
 - randomization
 - self destruct
+- break blocks
 - left and right click
 - toggle on/off bind
 - changes from white to green with on/off
