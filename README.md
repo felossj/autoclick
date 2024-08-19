@@ -2,6 +2,7 @@
 an autoclicker dll that can be injected into any process
 
 ## installation
+### [tutorial](https://www.youtube.com/watch?v=7lyi2RAchgA)
 download .dll file [here](https://github.com/felossj/autoclick/releases/tag/0.1).<br />
 remember that you can change the name and the extension it doesnt care
 
@@ -14,7 +15,7 @@ open a injector (system informer, process hacker or any injector), execute any p
 open cmd, writes "rundll32 [path to .dll] [some random word]" and touch enter.
 
 ## real bypasses
-- vulcan 12-16 cps
+- vulcan 12-16 cps ([video](https://youtu.be/UeklgYz6cAI))
 - verus 14-18 cps
 - hypixel 20-22 cps
 - astralmc 13-18 cps
