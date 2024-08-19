@@ -30,6 +30,7 @@ open cmd, writes "rundll32 [path to .dll] [some random word]" and touch enter.
 - new random 32 characters window title on each launch
   
 ## images
+ssj clicker [alpha 0.1](https://imgur.com/a/PF2NRgc)
 
 ssj clicker [alpha 0.02](https://imgur.com/a/fUiSGVg)
 
