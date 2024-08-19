@@ -14,11 +14,22 @@ open a injector (system informer, process hacker or any injector), execute any p
 ### 2nd method
 open cmd, writes "rundll32 [path to .dll] [some random word]" and touch enter.
 
-## real bypasses
+## real ac bypasses
 - vulcan 12-16 cps ([video](https://youtu.be/UeklgYz6cAI))
 - verus 14-18 cps
 - hypixel 20-22 cps
 - astralmc 13-18 cps
+
+## bypass guide
+- download the file in %temp% folder and name it something like "+~JF3888639446943723253.tmp" (dont download and then change name because it will appear on journaltrace)
+- launch clicker with rundll32
+- self destruct
+- press win+r, types prefetch and press enter
+- deletes all files with rundll32 name on them
+- press win+r, types regedit and press enter
+- go to Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\ and open the folder with the longest name
+- right click this folder and give administrators full permisions, deletes the file called C:\Windows\System32\rundll32, uncheck the full permisions for administrators and minimize all folders
+  this lil guide probably make you bypass manual screenshares but this clickers isnt screenshare proof and most ss tools probably detects it
   
 ## modules
 - randomization
