@@ -53,3 +53,5 @@ if you want to use this code for your project its fine but it has to be open sou
 
 ### credits
 is skidded from somewhere i dont remember
+2nd edit: i found it 
+liafenxd/autoclicker
