@@ -50,3 +50,6 @@ ssj clicker [alpha 0.01](https://imgur.com/a/WudtAKY)
 
 ### aclaration (ignore, its from when the project was open source)
 if you want to use this code for your project its fine but it has to be open source
+
+### credits
+is skidded from somewhere i dont remember
